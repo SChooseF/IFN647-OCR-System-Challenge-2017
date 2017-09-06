@@ -1,5 +1,5 @@
 '''
-Script removes sequentiatl punctuation e.g. -; or ???
+Script removes unicode and rejoins words back into a string
 '''
 
 import re
