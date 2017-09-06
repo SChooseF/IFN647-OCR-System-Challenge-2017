@@ -3,21 +3,21 @@
 
 ## Standardized Language for communication
 
-**Junk Removal** 
+* **Junk Removal** 
 
 example: ([]¥∞®3[4©™ []2[3442€543545 ----> ''
  
-**words mixed with special Unicode**
+* **words mixed with special Unicode**
 
 example: (£*© -> ish)
 
-**Disjoint Words**
+* **Disjoint Words**
 
 example: an nual ----> annual
 
-**Spelling Correction**
+* **Spelling Correction**
 toaayd -> today
 
-**Repeat punctuation**
+* **Repeat punctuation**
 
-exampel: the quick,,,, brown fox…..]] -> the quick, brown fox.
+example: the quick,,,, brown fox…..]] -> the quick, brown fox.
