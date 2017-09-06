@@ -7,7 +7,7 @@
 
 example: ([]¥∞®3[4©™ []2[3442€543545 ----> ''
  
-* **words mixed with special Unicode**
+* **(Special Unicode)Blended Words**
 
 example: (£*© -> ish)
 
